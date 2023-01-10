@@ -1,0 +1,7 @@
+D:\UE_projects\TestScroller\Plugins\MobileFileOpener\Intermediate\Build\Win64\UE4Editor\Development\MobileFileOpener\Definitions.MobileFileOpener.h
+D:/UE_projects/TestScroller/Plugins/MobileFileOpener/Intermediate/Build/Win64/UE4Editor/Inc/MobileFileOpener/FileOpener.gen.cpp
+D:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\UE_projects\TestScroller\Plugins\MobileFileOpener\Source\MobileFileOpener/Public/FileOpener.h
+D:\UE_projects\TestScroller\Plugins\MobileFileOpener\Intermediate\Build\Win64\UE4Editor\Inc\MobileFileOpener\FileOpener.generated.h
+D:/UE_projects/TestScroller/Plugins/MobileFileOpener/Intermediate/Build/Win64/UE4Editor/Inc/MobileFileOpener/MobileFileOpener.init.gen.cpp

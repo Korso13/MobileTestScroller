@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MobileFileOpener",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Tim Korso",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MobileFileOpener",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

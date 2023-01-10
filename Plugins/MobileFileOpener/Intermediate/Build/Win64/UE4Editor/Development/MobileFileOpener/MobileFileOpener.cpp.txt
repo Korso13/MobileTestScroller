@@ -1,0 +1,2 @@
+D:\UE_projects\TestScroller\Plugins\MobileFileOpener\Intermediate\Build\Win64\UE4Editor\Development\MobileFileOpener\Definitions.MobileFileOpener.h
+D:\UE_projects\TestScroller\Plugins\MobileFileOpener\Source\MobileFileOpener\Public\MobileFileOpener.h

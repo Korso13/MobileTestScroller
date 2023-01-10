@@ -1,0 +1,8 @@
+D:\UE_projects\TestScroller\Plugins\MobileFileOpener\Intermediate\Build\Win64\UE4Editor\Development\MobileFileOpener\Definitions.MobileFileOpener.h
+D:/UE_projects/TestScroller/Plugins/MobileFileOpener/Source/MobileFileOpener/Private/AndroidFileOpener.cpp
+D:\UE_projects\TestScroller\Plugins\MobileFileOpener\Source\MobileFileOpener\Public\AndroidFileOpener.h
+D:\UE_projects\TestScroller\Plugins\MobileFileOpener\Source\MobileFileOpener\Public\FileOpener.h
+D:\UE_projects\TestScroller\Plugins\MobileFileOpener\Intermediate\Build\Win64\UE4Editor\Inc\MobileFileOpener\FileOpener.generated.h
+D:/UE_projects/TestScroller/Plugins/MobileFileOpener/Source/MobileFileOpener/Private/FileOpener.cpp
+D:/UE_projects/TestScroller/Plugins/MobileFileOpener/Source/MobileFileOpener/Private/MobileFileOpener.cpp
+D:\UE_projects\TestScroller\Plugins\MobileFileOpener\Source\MobileFileOpener\Public\MobileFileOpener.h

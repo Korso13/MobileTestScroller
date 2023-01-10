@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MobileFileOpener.cpp.obj": [
+			"AndroidFileOpener.cpp.obj",
+			"FileOpener.cpp.obj",
+			"MobileFileOpener.cpp.obj"
+		],
+		"Module.MobileFileOpener.gen.cpp.obj": [
+			"FileOpener.gen.cpp.obj",
+			"MobileFileOpener.init.gen.cpp.obj"
+		]
+	}
+}

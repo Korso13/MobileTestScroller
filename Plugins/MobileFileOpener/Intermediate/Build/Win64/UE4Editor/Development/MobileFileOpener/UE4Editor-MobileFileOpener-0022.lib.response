@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MobileFileOpener-0022.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE_projects\TestScroller\Intermediate\Build\Win64\TestScrollerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UE_projects\TestScroller\Plugins\MobileFileOpener\Intermediate\Build\Win64\UE4Editor\Development\MobileFileOpener\Module.MobileFileOpener.cpp.obj"
+"D:\UE_projects\TestScroller\Plugins\MobileFileOpener\Intermediate\Build\Win64\UE4Editor\Development\MobileFileOpener\Module.MobileFileOpener.gen.cpp.obj"
+"D:\UE_projects\TestScroller\Plugins\MobileFileOpener\Intermediate\Build\Win64\UE4Editor\Development\MobileFileOpener\Default.rc2.res"
+/OUT:"D:\UE_projects\TestScroller\Plugins\MobileFileOpener\Intermediate\Build\Win64\UE4Editor\Development\MobileFileOpener\UE4Editor-MobileFileOpener-0022.lib"

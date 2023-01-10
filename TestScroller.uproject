@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TestScroller",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ScooterUtils",
+			"Enabled": false
+		},
+		{
+			"Name": "OnlineSubsystemGoogle",
+			"Enabled": true
+		}
+	]
+}
