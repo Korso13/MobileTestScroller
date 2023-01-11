@@ -13,10 +13,14 @@
 	"Plugins": [
 		{
 			"Name": "ScooterUtils",
-			"Enabled": false
+			"Enabled": true
 		},
 		{
 			"Name": "OnlineSubsystemGoogle",
+			"Enabled": true
+		},
+		{
+			"Name": "ActorPalette",
 			"Enabled": true
 		}
 	]

@@ -234,7 +234,6 @@
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I D:\UE_projects\TestScroller\Plugins\MobileFileOpener\Intermediate\Build\Win64\UE4Editor\Inc\MobileFileOpener
 /I D:\UE_projects\TestScroller\Plugins\MobileFileOpener\Source
-/I Runtime\Launch\Public
 /I D:\UE_projects\TestScroller\Plugins\MobileFileOpener\Source\MobileFileOpener\Public
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager

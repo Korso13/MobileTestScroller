@@ -39,7 +39,7 @@ void ATestScrollerGameMode::BeginPlay()
 #endif
 
 #if PLATFORM_ANDROID
-	MediaFileOpener = new AndroidFileOpener;
+	//MediaFileOpener = new AndroidFileOpener;
 #endif
 }
 
